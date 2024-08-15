@@ -25,7 +25,7 @@ potential impact on improving data quality. Our results indicate
 that LLMs exhibit robust generalization capabilities from limited
 samples while GCNs offer distinct advantages in certain contexts.'
 date: 2024-08-01
-venue: 'Towards Semi-Supervised Data Quality Detection in Graphs. VLDB 2024 Workshop: 13th International Workshop on Quality in Databases (QDB’24).'
+venue: 'VLDB 2024 Workshop: 13th International Workshop on Quality in Databases (QDB’24).'
 slidesurl: 'http://rubabzs.github.io/files/slides2.pdf'
 paperurl: 'http://rubabzs.github.io/files/qdb.pdf'
 ---
