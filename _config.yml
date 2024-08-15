@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rubab Zahra Sarfraz / Site Title"
+title                    : "Rubab Zahra Sarfraz"
 title_separator          : "-"
 name                     : &name "Rubab Zahra Sarfraz"
-description              : &description "personal description"
+description              : &description "Data Engineer."
 url                      : https://rubabzs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rubabzs/rubabzs.github.io"
@@ -21,7 +21,7 @@ repository               : "rubabzs/rubabzs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rubab-photo.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
