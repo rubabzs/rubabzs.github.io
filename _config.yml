@@ -22,13 +22,13 @@ repository               : "rubabzs/rubabzs.github.io"
 author:
   # Biographic information
   avatar           : "rubab-photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Rubab."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Engineer."
+  location         : "Pakistan"
+  employer         : "BridgeLinx Technologies"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rubabzsarfraz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rubabzs"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
