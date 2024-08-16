@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rubab Zahra Sarfraz"
 title_separator          : "-"
 name                     : &name "Rubab Zahra Sarfraz"
-description              : &description "Data Engineer."
+description              : &description ""
 url                      : https://rubabzs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rubabzs/rubabzs.github.io"
@@ -22,21 +22,21 @@ repository               : "rubabzs/rubabzs.github.io"
 author:
   # Biographic information
   avatar           : "rubab-photo.jpg"
-  name             : "Rubab."
+  name             : "Rubab Zahra Sarfraz"
   pronouns         : # example: "she/her"  
-  bio              : "Data Engineer."
+  bio              : ""
   location         : "Pakistan"
-  employer         : "BridgeLinx Technologies"
+  employer         : ""
   uri              : # URL
   email            : "rubabzsarfraz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=FPg8gRYAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
