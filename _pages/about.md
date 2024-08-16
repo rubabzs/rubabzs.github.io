@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Rubab Zahra Sarfraz"
 author_profile: true
 redirect_from: 
   - /about/
