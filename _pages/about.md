@@ -13,7 +13,7 @@ I earned my undergraduate degree in Computer Engineering from the University of 
 
 My research interests include databases (both transactional and analytical), data warehouses, data storage systems, data management systems, data visualization, and data quality. I believe that data should inform every decision made by humans and machines.
 
-Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV).
+Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV.pdf).
 
 ### News & Activity
 08/24: My paper has been accepted at the [Workshop on Quality in Databases (QDB)](https://hpi.de/naumann/projects/conferences-and-workshops-hosted/qdb-2024.html) at VLDB 2024.
