@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-### About Me
-
 Hi, I’m Rubab. I currently lead the data team at a fast-growing logistics startup, where I focus on building robust data infrastructure and software to power AI/ML products. I also collaborate with business users to translate their challenges into data-driven solutions. With around six years of experience, I’ve worked across the entire data stack, tackling complex problems and designing efficient data systems that drive both technological execution and business value. I’ve come across many challenges along the way, and, while many have been solved, most stand open. There are always new puzzles to unravel in this ever-evolving field.
 
 I earned my undergraduate degree in Computer Engineering from the University of Engineering & Technology, Lahore (UET), and my MS in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan.
