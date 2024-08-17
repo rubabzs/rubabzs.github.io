@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Rubab. I currently lead the data team at [BridgeLinx](https://www.crunchbase.com/organization/bridgelinx), a fast-growing logistics startup, where I focus on building robust data infrastructure and software to power AI/ML products. I also collaborate with business users to translate their challenges into data-driven solutions. With around six years of experience, I’ve worked across the entire data stack, tackling complex problems and designing efficient data systems that drive both technological execution and business value. I’ve come across many challenges along the way, and, while many have been solved, most stand open. There are always new puzzles to unravel in this ever-evolving field.
+Hi, I’m Rubab, currently leading the data team at [BridgeLinx]((https://www.crunchbase.com/organization/bridgelinx), a fast-growing logistics startup. My work centers on building scalable data infrastructure and software that power data-driven products. Prior to BridgeLinx, I worked at Finja, a leading fintech, where I engineered multiple AI/ML products and built and scaled their data team from scratch. With six years of experience across the entire data stack, I’ve solved complex problems and built efficient data systems that drive both technological innovation and business impact. However, the data landscape continues to evolve, and new challenges keep me excited to explore more.
 
-I earned my undergraduate degree in Computer Engineering from the University of Engineering & Technology, Lahore (UET), and my MS in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan.
+I hold a BS in Computer Engineering from the University of Engineering & Technology (UET), Lahore, and an MS in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan. I have also completed technical internships at [Outreachy](https://www.outreachy.org/), [CERN](https://home.cern/), and [Meta Opensource](https://opensource.fb.com/) (remote).
 
+<b>Research Interests:</b> My research interests include databases (transactional and analytical), data storage and management systems, data visualization, and data quality. I believe that data should inform and drive decisions—whether by humans or machines.
 
-<b>Research Interests:</b> Databases (both transactional and analytical), data warehouses, data storage systems, data management systems, data visualization, and data quality. 
-<p><i>I believe that data should inform every decision made by humans and machines.</i></p>
+<b>Communities</b>: I enjoy contributing to open-source communities, learning from diverse design principles and coding practices. Some of the projects I’ve contributed to include [Ceph](https://ceph.io/en), [Osquery](https://www.osquery.io/), and [Docker](https://www.docker.com/).
 
-
-<b>Communities:</b> I enjoy contributing to and engaging myself in open-source communities to learn from the diverse set of design principles, coding practices, and the collaboration driven by people. Some of the projects I have contributed to: [Ceph](https://ceph.io/en/), [Osquery](https://www.osquery.io/), [Docker](https://www.docker.com/).
+</b>Initiatives:</b>: 
+I’m passionate about tackling challenges unique to developing countries and creating solutions that make a positive impact. I co-founded a startup aimed at helping students and young graduates find accommodations—though it didn’t succeed, it provided invaluable experience. At Finja, I launched Pakistan’s first P2P lending platform, enabling small businesses to access capital while offering mid-tier investors a chance to earn. I also contributed to drafting regulations with the SECP to protect SMEs and built the country’s first data-driven credit engine for undocumented SMEs. Currently, at BridgeLinx, I’m focused on solving issues that directly benefit truck drivers in Pakistan.
 
 
 Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV.pdf).
