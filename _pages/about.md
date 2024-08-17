@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<style>body {text-align: justify}</style>
+<style>body {text-align: justify, font-size:16.5}</style>
 
 Hi, I’m Rubab, currently leading the data team at [BridgeLinx](https://www.crunchbase.com/organization/bridgelinx), a fast-growing logistics startup. My work centers on building scalable data infrastructure and software that power data-driven products. Prior to BridgeLinx, I worked at Finja, a leading fintech, where I engineered multiple AI/ML products and built and scaled their data team from scratch. With six years of experience across the entire data stack, I’ve solved complex problems and built efficient data systems that drive both technological innovation and business impact. However, the data landscape continues to evolve, and new challenges keep me excited to explore more.
 
@@ -17,7 +17,7 @@ I hold a BS in Computer Engineering from the University of Engineering & Technol
 
 <b>Communities</b>: I enjoy contributing to open-source communities, learning from diverse design principles and coding practices. Some of the projects I’ve contributed to include [Ceph](https://ceph.io/en), [Osquery](https://www.osquery.io/), and [Docker](https://www.docker.com/).
 
-</b>Initiatives:</b>: 
+<b>Initiatives:</b>: 
 I’m passionate about tackling challenges unique to developing countries and creating solutions that make a positive impact. I co-founded a startup aimed at helping students and young graduates find accommodations—though it didn’t succeed, it provided invaluable experience. At Finja, I launched Pakistan’s first P2P lending platform, enabling small businesses to access capital while offering mid-tier investors a chance to earn. I also contributed to drafting regulations with the SECP to protect SMEs and built the country’s first data-driven credit engine for undocumented SMEs. Currently, at BridgeLinx, I’m focused on solving issues that directly benefit truck drivers in Pakistan.
 </p>
 
