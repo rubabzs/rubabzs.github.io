@@ -19,7 +19,6 @@ I hold a BS in Computer Engineering from the University of Engineering & Technol
 
 <b>Initiatives:</b>: 
 I’m passionate about tackling challenges unique to developing countries and creating solutions that make a positive impact. I co-founded a startup aimed at helping students and young graduates find accommodations—though it didn’t succeed, it provided invaluable experience. At Finja, I launched Pakistan’s first [P2P lending platform](https://x.com/SECPakistan/status/1526596678219972609), enabling small businesses to access capital while offering mid-tier investors a chance to earn. I also contributed to drafting regulations with the SECP to protect SMEs and built the country’s first data-driven credit engine for undocumented SMEs. Currently, at BridgeLinx, I’m focused on solving issues that directly benefit truck drivers in Pakistan.
-</p>
 
 Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV.pdf).
 
