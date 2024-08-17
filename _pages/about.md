@@ -11,7 +11,13 @@ Hi, I’m Rubab. I currently lead the data team at a fast-growing logistics star
 
 I earned my undergraduate degree in Computer Engineering from the University of Engineering & Technology, Lahore (UET), and my MS in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan.
 
-My research interests include databases (both transactional and analytical), data warehouses, data storage systems, data management systems, data visualization, and data quality. I believe that data should inform every decision made by humans and machines.
+
+<b>Research Interests:</b> Databases (both transactional and analytical), data warehouses, data storage systems, data management systems, data visualization, and data quality. 
+(in italics) I believe that data should inform every decision made by humans and machines.
+
+
+<b>Communities:</b> I enjoy contributing to and engaging myself in open-source communities to learn from the diverse set of design principles, coding practices, and the collaboration driven by peo[le. Some of the projects I have contributed to: [Ceph (A distributed storage system)](https://ceph.io/en/), [Osquery (A low-level infrastructure querying tool)](https://www.osquery.io/), [Docker (A container platform)](https://www.docker.com/).
+
 
 Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV.pdf).
 
