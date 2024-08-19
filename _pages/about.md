@@ -15,9 +15,9 @@ I hold a BS in Computer Engineering from the University of Engineering & Technol
 
 <b>Research Interests:</b> My research interests include databases (transactional and analytical), data storage and management systems, data visualization, and data quality. I believe that data should inform and drive decisions—whether by humans or machines.
 
-<b>Communities</b>: I enjoy contributing to open-source communities, learning from diverse design principles and coding practices. Some of the projects I’ve contributed to include [Ceph](https://ceph.io/en), [Osquery](https://www.osquery.io/), and [Docker](https://www.docker.com/).
+<b>Communities:</b> I enjoy contributing to open-source communities, learning from diverse design principles and coding practices. Some of the projects I’ve contributed to include [Ceph](https://ceph.io/en), [Osquery](https://www.osquery.io/), and [Docker](https://www.docker.com/).
 
-<b>Initiatives:</b>: 
+<b>Initiatives:</b>
 I’m passionate about creating impactful solutions for challenges unique to developing countries. I co-founded a startup aimed at helping students and young graduates find accommodations—though it didn’t succeed, it provided invaluable experience. At Finja, I launched Pakistan’s first [P2P lending platform](https://x.com/SECPakistan/status/1526596678219972609), empowering small businesses and mid-tier investors, and contributed to SECP regulations to protect SMEs. I also built the country’s first data-driven credit engine for undocumented SMEs. Now at BridgeLinx, I focus on solving challenges that benefit truck drivers in Pakistan.
 
 Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV.pdf).
