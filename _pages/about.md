@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I’m Rubab, currently leading the data team at [BridgeLinx](https://www.crunchbase.com/organization/bridgelinx), a fast-growing logistics startup. My work centers on building scalable data infrastructure and software that power data-driven products. Prior to BridgeLinx, I worked at [Finja](https://www.crunchbase.com/organization/finja), a leading fintech, where I engineered multiple AI/ML products and built and scaled their data team from scratch. With six years of experience across the entire data stack, I’ve solved complex problems and built efficient data systems that drive both technological innovation and business impact. However, the data landscape continues to evolve, and new challenges keep me excited to explore more.
 
-I hold a BS in Computer Engineering from the University of Engineering & Technology (UET), Lahore, and an MS in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan. I have also completed technical internships at [Outreachy](https://www.outreachy.org/), [CERN](https://home.cern/), and [Meta Opensource](https://opensource.fb.com/) (remote).
+I hold a BS in Computer Engineering from the University of Engineering & Technology (UET), Lahore, and an MS in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan. I have also completed technical internships at [Outreachy](https://www.outreachy.org/), [CERN](https://home.cern/), and [Meta Open Source](https://opensource.fb.com/).
 
 <b>Research Interests:</b> My research interests include databases (transactional and analytical), data storage and management systems, data visualization, and data quality. I believe that data should inform and drive decisions—whether by humans or machines.
 
