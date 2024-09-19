@@ -9,7 +9,7 @@ redirect_from:
 
 <style>body {text-align: justify; font-size:16}</style>
 
-Hi, I’m Rubab, currently leading the data team at [BridgeLinx](https://www.crunchbase.com/organization/bridgelinx), a fast-growing logistics startup. My work centers on building scalable data infrastructure and software that power data-driven products. Prior to BridgeLinx, I worked at [Finja](https://www.crunchbase.com/organization/finja), a leading fintech, where I engineered multiple AI/ML products and built and scaled their data team from scratch. With six years of experience across the entire data stack, I’ve solved complex problems and built efficient data systems that drive both technological innovation and business impact. However, the data landscape continues to evolve, and new challenges keep me excited to explore more.
+Hi, I’m Rubab, currently leading the data team at [BridgeLinx](https://www.crunchbase.com/organization/bridgelinx), a fast-growing logistics startup. My work centers on building scalable data infrastructure and software that power data-driven products. Prior to BridgeLinx, I worked at [Finja](https://www.crunchbase.com/organization/finja), a leading fintech, where I engineered multiple AI/ML products and built and scaled their data team from scratch. With six years of experience across the entire data stack, I’ve solved complex problems and built efficient data systems that drive both technological innovation and business impact. The data landscape continues to evolve, and new challenges always keep me excited to explore more.
 
 I hold a BS in Computer Engineering from the University of Engineering & Technology (UET), Lahore, and an MS in Computer Science from Lahore University of Management Sciences (LUMS), Pakistan. I have also completed technical internships at [Outreachy](https://www.outreachy.org/), [CERN](https://home.cern/), and [Meta Open Source](https://opensource.fb.com/).
 
@@ -25,7 +25,7 @@ Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV.pdf).
 ### News & Activity
 08/24: My paper has been accepted at the [Workshop on Quality in Databases (QDB)](https://hpi.de/naumann/projects/conferences-and-workshops-hosted/qdb-2024.html) at VLDB 2024. Read it [here](https://rubabzs.github.io/files/qdb.pdf) or watch my talk [here](https://youtu.be/9d1LQcwBwgY).
 
-07/24: My paper has been accepted at the [Workshop on Big Data Visual Exploration and Analytics (BigVis)](https://bigvis.imsi.athenarc.gr/bigvis2024/index.html) at VLDB 2024.
+07/24: My paper has been accepted at the [Workshop on Big Data Visual Exploration and Analytics (BigVis)](https://bigvis.imsi.athenarc.gr/bigvis2024/index.html) at VLDB 2024. Read it [here](https://rubabzs.github.io/files/vizard.pdf) or watch my talk [here](https://youtu.be/GvphIVJlKgM?si=hvIS6ZFV6djdN5dZ).
 
 04/24: Honored to have been selected to serve on the alumni board of the Department of Computer Science at LUMS!
 
