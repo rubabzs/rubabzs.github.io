@@ -26,6 +26,8 @@ I’m passionate about creating impactful solutions for challenges unique to dev
 Here is my full [CV](http://rubabzs.github.io/files/Rubab_Zahra_Sarfraz_CV.pdf).
 
 ### News & Activity
+01/25: I joined LUMS as an Adjunct Faculty this month and will be teaching 'Data Engineering for AI Systems' this semester!
+
 08/24: My paper has been accepted at the [Workshop on Quality in Databases (QDB)](https://hpi.de/naumann/projects/conferences-and-workshops-hosted/qdb-2024.html) at VLDB 2024. Read it [here](https://rubabzs.github.io/files/qdb.pdf) or watch my talk [here](https://youtu.be/9d1LQcwBwgY).
 
 07/24: My paper has been accepted at the [Workshop on Big Data Visual Exploration and Analytics (BigVis)](https://bigvis.imsi.athenarc.gr/bigvis2024/index.html) at VLDB 2024. Read it [here](https://rubabzs.github.io/files/vizard.pdf) or watch my talk [here](https://youtu.be/GvphIVJlKgM?si=hvIS6ZFV6djdN5dZ).
