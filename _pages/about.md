@@ -9,7 +9,7 @@ redirect_from:
 
 <style>body {text-align: justify; font-size:16}</style>
 
-I am a first-year PhD student at University of Illinois, Chicago (UIC), advised by [Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html). My work focuses on making data transformations in large data lakes scalable and automatic. I am broadly interested in data discovery, data cleaning and integration, and fairness in data systems.
+I am a first-year PhD student at University of Illinois, Chicago (UIC), advised by [Dr. Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html). My work focuses on making data transformations in large data lakes scalable and automatic. I am broadly interested in data discovery, data cleaning and integration, and fairness in data systems.
  
 Before my PhD, I spent 7 years in industry working on data engineering.
 
